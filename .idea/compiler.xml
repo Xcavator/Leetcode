@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Java-based" />
+        <module name="LeetcodeJava" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="Java-based" target="1.7" />
+      <module name="LeetcodeJava" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
