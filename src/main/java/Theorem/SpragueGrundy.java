@@ -11,7 +11,7 @@ import java.util.Set;
  * Solution to 294 Flip Game II
  */
 public class SpragueGrundy {
-    // Sprague¨CGrundy theorem
+    // Sprague Grundy theorem
     // https://brilliant.org/wiki/sprague-grundy-theorem/
     public boolean canWin(String s) {
         int max = 0, count = 0;
